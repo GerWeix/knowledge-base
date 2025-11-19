@@ -6,6 +6,11 @@ This documentation was created with MkDocs.
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+### Installation
+
+* [Install Python](https://www.python.org/downloads/windows/)
+* `pip install mkdocs mkdocs-material`
+
 ### Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
