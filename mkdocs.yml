@@ -5,4 +5,5 @@ theme:
 nav:
   - Home: index.md
   - Visual Studio Code: visual-studio-code.md
+  - Wacom Tipps: wacom.md
   - Youtube.apk patchen : youtube-apk.md
