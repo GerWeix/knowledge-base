@@ -5,5 +5,7 @@ theme:
 nav:
   - Home: index.md
   - Visual Studio Code: visual-studio-code.md
+  - Krita: krita.md
+  - Photoshop: photoshop.md
   - Wacom Tipps: wacom.md
   - Youtube.apk patchen : youtube-apk.md
