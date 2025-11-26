@@ -1,8 +1,8 @@
 site_name: Knowledge Base
 theme:
   name: material
-  logo: images/brain.png
-  favicon: images/brain.png
+  # logo: images/brain.png
+  # favicon: images/brain.png
 
 nav:
   - Home: index.md
